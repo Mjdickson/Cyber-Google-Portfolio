@@ -1,6 +1,6 @@
 <h1>Cyber Security "Google" Portfolio</h1>
 
- ### [Video Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Video Demonstration]()
 
 <h2>Description</h2>
 A professional statement is an introduction to employers that briefly describes who you are and what you care about. It allows me to showcase my interest in cybersecurity, work experience, knowledge, skills, and achievements. As i continue to learn more and refine my understanding of key cybersecurity concepts, i will return to this professional statement and revise it as needed.
