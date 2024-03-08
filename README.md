@@ -97,9 +97,16 @@ schedule in place for these tasks and intervention methods are unclear.
 <br /> Fire detection/prevention (fire alarm, sprinkler system, etc.): YES
 
 <h2>Payment Card Industry Data Security Standard (PCI DSS)</h2>
-<br /> 
-<br /> 
-<br /> 
+<br /> Only authorized users have access to customers credit card
+information:
+<br /> Credit card information is stored, accepted, processed, and
+transmitted internally, in a secure environment:
+<br /> Implement data encryption procedures to better secure credit card
+transaction touchpoints and data:
+<br /> Adopt secure password management policies:
+
+
+
 
 
 
