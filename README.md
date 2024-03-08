@@ -36,6 +36,94 @@ Combining my technical expertise, analytical thinking, and adaptability allows m
 <br /> My passion for cybersecurity fuels my desire to be at the forefront of protecting our organization's data and infrastructure. This ever-evolving field ensures a dynamic learning environment, allowing me to continuously grow and develop my skills while maintaining a healthy work-life balance. This balance enables me to combine my lifelong love of learning with the challenge of cybersecurity. Ultimately, this is a career where I can significantly contribute to an organization's security posture.
 
 
+
+<h2>Conducting a Security Audit</h2>
+
+<br /> This scenario is based on a fictional company:
+
+Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
+
+The manager of the IT department has decided that an internal IT audit needs to be conducted. She expresses concerns about not having a solidified plan of action to ensure business continuity and compliance, as the business grows. She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also interested in ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).   
+
+The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
+
+( My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist)
+
+<br /> Scope: The scope is defined as the entire security program at Botium Toys. This means
+all assets need to be assessed alongside internal processes and procedures related to
+the implementation of controls and compliance best practices.
+
+Goals: Assess existing assets and complete the controls and compliance checklist to
+determine which controls and compliance best practices need to be implemented to
+improve Botium Toys’ security posture.
+
+Assets managed by the IT Department include:
+● On-premises equipment for in-office business needs
+● Employee equipment: end-user devices (desktops/laptops, smartphones),
+remote workstations, headsets, cables, keyboards, mice, docking stations,
+surveillance cameras, etc.
+● Storefront products available for retail sale on site and online; stored in the
+company’s adjoining warehouse
+● Management of systems, software, and services: accounting,
+telecommunication, database, security, ecommerce, and inventory
+management
+● Internet access
+● Internal network
+● Data retention and storage
+● Legacy system maintenance: end-of-life systems that require human
+monitoring
+
+<h2>Controls and compliance checklist</h2>
+
+<br /> 
+<br /> Least Privilege: NO
+<br /> Disaster recovery plans: NO
+<br /> Password policies: YES but not in line
+with current minimum password complexity requirements (e.g., at least eight
+characters, a combination of letters and at least one number; special
+characters) 
+<br /> Separation of duties: NO
+<br /> Firewall: YES
+<br /> Intrusion detection system (IDS): NO
+<br /> Backups: NO
+<br /> Antivirus software: YES
+<br /> Manual monitoring, maintenance, and intervention for legacy
+systems: YES legacy systems are monitored and maintained, but there is no regular
+schedule in place for these tasks and intervention methods are unclear.
+<br /> Encryption: NO
+<br /> Password management system: NO 
+<br /> Locks (offices, storefront, warehouse): YES
+<br /> Closed-circuit television (CCTV) surveillance: YES
+<br /> Fire detection/prevention (fire alarm, sprinkler system, etc.): YES
+
+<h2>Payment Card Industry Data Security Standard (PCI DSS)</h2>
+<br /> 
+<br /> 
+<br /> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
  ```diff
 - text in red
