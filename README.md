@@ -100,10 +100,34 @@ schedule in place for these tasks and intervention methods are unclear.
 <br /> Only authorized users have access to customers credit card
 information:
 <br /> Credit card information is stored, accepted, processed, and
-transmitted internally, in a secure environment:
+transmitted internally, in a secure environment: YES
 <br /> Implement data encryption procedures to better secure credit card
-transaction touchpoints and data:
-<br /> Adopt secure password management policies:
+transaction touchpoints and data: YES
+<br /> Adopt secure password management policies: YES
+<h2>General Data Protection Regulation (GDPR)</h2>
+
+<br /> E.U. customers data is kept private/secured: YES
+<br /> There is a plan in place to notify E.U. customers within 72 hours if
+their data is compromised/there is a breach: YES
+<br /> Ensure data is properly classified and inventoried: YES
+<br /> Enforce privacy policies, procedures, and processes to properly
+document and maintain data: YES
+
+<h2>System and Organizations Controls (SOC type 1, SOC type 2)</h2>
+<br /> User access policies are established: YES
+<br /> Sensitive data (PII/SPII) is confidential/private: YES
+<br /> Data integrity ensures the data is consistent, complete, accurate,
+and has been validated: YES
+<br /> Data is available to individuals authorized to access it: NO
+
+
+
+
+
+
+
+
+
 
 
 
