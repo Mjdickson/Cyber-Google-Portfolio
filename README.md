@@ -98,7 +98,7 @@ schedule in place for these tasks and intervention methods are unclear.
 
 <h2>Payment Card Industry Data Security Standard (PCI DSS)</h2>
 <br /> Only authorized users have access to customers credit card
-information:
+information: YES
 <br /> Credit card information is stored, accepted, processed, and
 transmitted internally, in a secure environment: YES
 <br /> Implement data encryption procedures to better secure credit card
