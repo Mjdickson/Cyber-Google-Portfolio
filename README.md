@@ -146,7 +146,7 @@ The company’s cybersecurity team then investigated the security event. They fo
 <br /> To detect new unauthorized access attacks in the future, the team will use an IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
 <h2>Respond</h2> 
-<br /> 
+<br /> The team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services. 
 
 <h2>Recover</h2>
 <br /> 
