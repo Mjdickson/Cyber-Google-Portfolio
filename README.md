@@ -149,8 +149,9 @@ The company’s cybersecurity team then investigated the security event. They fo
 <br /> The team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services. 
 
 <h2>Recover</h2>
-<br /> 
-
+<br /> The team will recover any deleted data by restoring the database from last
+night’s full backup. We have informed staff that any customer information
+entered or changed this morning would not be recorded on the backup.
 
 
 
